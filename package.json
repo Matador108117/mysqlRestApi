@@ -9,6 +9,7 @@
   "author": "matador1081",
   "license": "ISC",
   "dependencies": {
+    "express": "4.17.1",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "sequelize": "^5.12.3",
